@@ -27,3 +27,10 @@
 # CSS tricks
 [:target pseudo selector](https://developer.mozilla.org/en-US/docs/Web/CSS/:target)
 - apply style to url fragment
+
+# React tips
+[Fetch Data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
+
+# Airtable tips
+[fetch all pages of data](https://github.com/Airtable/airtable.js/issues/69)
+- use table.select({}).all() 
