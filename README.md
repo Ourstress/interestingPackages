@@ -37,6 +37,8 @@
 # React tips
 [Fetch Data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
+[Ensuring that direct navigation to subpages work](https://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writting-manually)
+
 # Airtable tips
 [fetch all pages of data](https://github.com/Airtable/airtable.js/issues/69)
 - use table.select({}).all() 
