@@ -31,6 +31,9 @@
 [:target pseudo selector](https://developer.mozilla.org/en-US/docs/Web/CSS/:target)
 - apply style to url fragment
 
+[npm install fonts](https://github.com/KyleAMathews/typefaces/tree/master/packages)
+- to use within react app, import font in index.js
+
 # React tips
 [Fetch Data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
