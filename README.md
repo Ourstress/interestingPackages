@@ -25,6 +25,9 @@
 - Convert any site to an ***interactive*** learning platform for data science.
 
 # CSS tricks
+[CSS locks](https://fvsch.com/css-locks/)
+- Concept where the CSS value goes linearly from the minimum to the maximum between both breakpoints 
+
 [:target pseudo selector](https://developer.mozilla.org/en-US/docs/Web/CSS/:target)
 - apply style to url fragment
 
