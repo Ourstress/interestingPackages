@@ -34,6 +34,9 @@
 [npm install fonts](https://github.com/KyleAMathews/typefaces/tree/master/packages)
 - to use within react app, import font in index.js
 
+[Sidebar in Modal](https://codesandbox.io/s/81oplrwx2l)
+- toggle sidebar to appear in modal
+
 # React tips
 [Fetch Data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
