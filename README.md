@@ -37,6 +37,12 @@
 [Sidebar in Modal](https://codesandbox.io/s/81oplrwx2l)
 - toggle sidebar to appear in modal
 
+[Back button](https://codepen.io/ender2821/pen/LpgYOB)
+- simple back button
+
+[Define more than 1 style in CSS modules](https://stackoverflow.com/questions/33949469/using-css-modules-how-do-i-define-more-than-one-style-name)
+- to add a style to override another eg for the same attribute in style1 to override style2, use !important in style1
+
 # React tips
 [Fetch Data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
