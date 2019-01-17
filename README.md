@@ -48,6 +48,9 @@
 
 [Ensuring that direct navigation to subpages work](https://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writting-manually)
 
+[Goback with react router](https://stackoverflow.com/questions/46681387/react-router-v4-how-to-go-back)
+- for button with go back functionality, can use withRouter 
+
 # Airtable tips
 [fetch all pages of data](https://github.com/Airtable/airtable.js/issues/69)
 - use table.select({}).all() 
