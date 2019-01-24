@@ -24,6 +24,9 @@
 [datacamp-light](https://github.com/datacamp/datacamp-light)
 - Convert any site to an ***interactive*** learning platform for data science.
 
+[coveralls.io](https://coveralls.io/)
+- check test suite coverage automatically 
+
 # CSS tricks
 [CSS locks](https://fvsch.com/css-locks/)
 - Concept where the CSS value goes linearly from the minimum to the maximum between both breakpoints 
@@ -56,3 +59,7 @@
 # Airtable tips
 [fetch all pages of data](https://github.com/Airtable/airtable.js/issues/69)
 - use table.select({}).all() 
+
+# Machine learning examples
+[Making prediction example](https://medium.com/datadriveninvestor/tensorflow-and-keras-a-beginners-tutorial-by-a-beginner-abd4c90f814f)
+- change tf.Variables to np.array for code to run
