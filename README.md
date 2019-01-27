@@ -27,6 +27,9 @@
 [coveralls.io](https://coveralls.io/)
 - check test suite coverage automatically 
 
+[JSON validator](https://jsonlint.com/)
+- checks that our json files have valid code
+
 # CSS tricks
 [CSS locks](https://fvsch.com/css-locks/)
 - Concept where the CSS value goes linearly from the minimum to the maximum between both breakpoints 
