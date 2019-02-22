@@ -66,3 +66,6 @@
 # Machine learning examples
 [Making prediction example](https://medium.com/datadriveninvestor/tensorflow-and-keras-a-beginners-tutorial-by-a-beginner-abd4c90f814f)
 - change tf.Variables to np.array for code to run
+
+# Machine learning articles
+[Using pandas iloc & loc](https://stackoverflow.com/questions/31593201/pandas-iloc-vs-ix-vs-loc-explanation-how-are-they-different/46915810#46915810)
