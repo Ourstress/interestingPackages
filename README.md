@@ -69,3 +69,5 @@
 
 # Machine learning articles
 [Using pandas iloc & loc](https://stackoverflow.com/questions/31593201/pandas-iloc-vs-ix-vs-loc-explanation-how-are-they-different/46915810#46915810)
+
+[What standardscaler does](https://stackoverflow.com/questions/40758562/can-anyone-explain-me-standardscaler)
