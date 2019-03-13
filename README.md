@@ -1,8 +1,5 @@
 
 # interesting NPM Packages
- 
-[React Visual Novel!!!](https://github.com/nashkenazy/React-Visual-Novel)
-- [experience the demo](https://rvn.netlify.com/)
 
 [classnames](https://www.npmjs.com/package/classnames)
 - easy toggling of classes in React!
@@ -32,6 +29,9 @@
 
 [JSON validator](https://jsonlint.com/)
 - checks that our json files have valid code
+
+[React Visual Novel!!!](https://github.com/nashkenazy/React-Visual-Novel)
+- [experience the demo](https://rvn.netlify.com/)
 
 # CSS tricks
 [CSS locks](https://fvsch.com/css-locks/)
@@ -74,3 +74,6 @@
 [Using pandas iloc & loc](https://stackoverflow.com/questions/31593201/pandas-iloc-vs-ix-vs-loc-explanation-how-are-they-different/46915810#46915810)
 
 [What standardscaler does](https://stackoverflow.com/questions/40758562/can-anyone-explain-me-standardscaler)
+
+# Amazon
+[Hello world with Amazon Lambda deployed to API Gateway](https://medium.com/@dwdraju/python-function-on-aws-lambda-with-api-gateway-endpoint-288eae7617cb)
