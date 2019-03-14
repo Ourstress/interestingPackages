@@ -77,3 +77,7 @@
 
 # Amazon
 [Hello world with Amazon Lambda deployed to API Gateway](https://medium.com/@dwdraju/python-function-on-aws-lambda-with-api-gateway-endpoint-288eae7617cb)
+
+[AWS lambda with puppeteer](https://github.com/sean-hill/aws-puppeteer-lambda)
+
+[Netlify functions sample code and playground](https://functions-playground.netlify.com/)
