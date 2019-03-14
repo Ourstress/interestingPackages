@@ -81,3 +81,6 @@
 [AWS lambda with puppeteer](https://github.com/sean-hill/aws-puppeteer-lambda)
 
 [Netlify functions sample code and playground](https://functions-playground.netlify.com/)
+
+# Coding tips
+[using @param notation](http://usejsdoc.org/tags-param.html)
