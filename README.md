@@ -10,6 +10,9 @@
 [React-Virtualized](https://github.com/bvaughn/react-virtualized/)
 - efficiently rendering large lists and tabular data. 
 
+[AceEditor](https://ace.c9.io)
+- Code editor maintained by Mozilla and Cloud9 IDE with features like syntax highlighting- View [react-ace](https://github.com/securingsincity/react-ace/blob/master/docs/Ace.md)
+
 [Yosgo Editor](https://www.npmjs.com/package/yosgo-editor)
 - lightweight WYSIWYG editor.
 
