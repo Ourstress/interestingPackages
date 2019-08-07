@@ -56,6 +56,11 @@
 - to add a style to override another eg for the same attribute in style1 to override style2, use !important in style1
 
 # React tips
+
+[Function as Child Components v Higher Order Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9)
+
+[Good React Redux guide](https://blog.isquaredsoftware.com/)
+
 [Fetch Data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
 [Ensuring that direct navigation to subpages work](https://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writting-manually)
