@@ -61,6 +61,8 @@
 
 [Good React Redux guide](https://blog.isquaredsoftware.com/)
 
+[Good blog author about React](https://blog.logrocket.com/author/ehrrera/)
+
 [Fetch Data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
 [Ensuring that direct navigation to subpages work](https://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writting-manually)
@@ -92,3 +94,7 @@
 
 # Coding tips
 [using @param notation](http://usejsdoc.org/tags-param.html)
+
+# Others
+
+[Graph Database guide](https://go.neo4j.com/rs/710-RRC-335/images/Graph_Databases_for_Beginners.pdf)
