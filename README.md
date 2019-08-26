@@ -95,6 +95,12 @@
 # Coding tips
 [using @param notation](http://usejsdoc.org/tags-param.html)
 
+# Python
+[Great pythonic code tips by Ned Batchelder](https://nedbatchelder.com/text/iter.html)
+
+[Slides by Shaun Axani](https://cs.nyu.edu/courses/spring17/CSCI-UA.0002-011/slides/)
+
 # Others
+[Webcomic in SVG - how DNS works by DNSimple](https://blog.dnsimple.com/2016/09/how-dns-works/)
 
 [Graph Database guide](https://go.neo4j.com/rs/710-RRC-335/images/Graph_Databases_for_Beginners.pdf)
